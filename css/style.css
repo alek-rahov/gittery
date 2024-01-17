@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(103, 126, 161);
+}
+.circle {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.yellow {
+    background-color: gold;
+}
+.red {
+    background-color: rgb(255, 0, 0);
+}
+.black {
+    background-color: black;
+}
+.info {
+    width: 500px;
+}
